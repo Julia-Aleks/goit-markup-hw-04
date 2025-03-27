@@ -345,13 +345,6 @@ img {
   gap: 24px;
 }
 
-.icons-media {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  padding-bottom: 16px;
-}
-
 .link-icons {
   background-color: #4d5ae5;
   width: 100%;
